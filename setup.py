@@ -1,1 +1,0 @@
-import setuptoolsfrom setuptools import setup, find_packagessetup(    name = 'mypackage',    version = '0.1.0',    author = 'Tatev Gomtsyan',     url = 'https://github.com/tatevmane/DS5100-Mod9.git',    author_email = 'tmg6jda@virginia.edu',    license = 'MIT',    packages = 'demo')
